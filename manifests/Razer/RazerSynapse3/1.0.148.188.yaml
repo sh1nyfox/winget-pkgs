@@ -1,0 +1,18 @@
+Id: Razer.RazerSynapse3
+Publisher: Razer
+Name: Razer Synapse 3
+Version: 1.0.148.188
+License: Copyright © 2021 Razer Inc. All rights reserved.
+InstallerType: EXE
+AppMoniker: RazerSynapse
+Tags: Razer
+Description: Razer Synapse 3 for Windows 10
+Homepage: https://www.razer.com/synapse-3
+Installers:
+  - Arch: x86
+    InstallerType: EXE
+    Url: https://rzr.to/synapse-3-pc-download
+    Sha256: D7885CCC3945F5540450C3A045D428B55564FF1B5FF81E712A8AE5D1116467B8
+    Switches:
+        Silent: /s
+        SilentWithProgress: /s
